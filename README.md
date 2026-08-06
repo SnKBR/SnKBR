@@ -51,6 +51,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SnKBR&theme=darkhub&no-frame=true&column=7&margin-w=8" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnKBR/SnKBR/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/SnKBR/SnKBR/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 📫 Contato
