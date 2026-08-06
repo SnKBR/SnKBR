@@ -58,8 +58,6 @@
 <p>
   <a href="https://amagrotech.com.br"><img src="https://img.shields.io/badge/Website-0C1F0E?style=for-the-badge&logo=googlechrome&logoColor=D4A853" /></a>
   <a href="mailto:contato@amagrotech.com.br"><img src="https://img.shields.io/badge/Email-D4A853?style=for-the-badge&logo=gmail&logoColor=0C1F0E" /></a>
-  <a href="https://instagram.com/miguelpdadalto"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/miguel-polchera-dadalto-60515a261/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"A tecnologia não deve complicar a rotina de quem produz. Ela deve transformar dados em decisões mais claras."</i></p>
