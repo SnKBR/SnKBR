@@ -39,16 +39,7 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SnKBR&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=2E6A45&icon_color=D4A853&text_color=C8D5C9&bg_color=0C1F0E" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnKBR&layout=compact&hide_border=true&langs_count=8&title_color=2E6A45&text_color=C8D5C9&bg_color=0C1F0E" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnKBR&hide_border=true&background=0C1F0E&stroke=1E3A21&ring=D4A853&fire=D4A853&currStreakLabel=D4A853&sideNums=C8D5C9&currStreakNum=C8D5C9&dates=6B8F6E&sideLabels=C8D5C9" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SnKBR&theme=darkhub&no-frame=true&column=7&margin-w=8" />
 </p>
 
 <p align="center">
